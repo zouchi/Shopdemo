@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shopdemo</string>
+    <string name="menu_first">首页</string>
+    <string name="menu_second">分类</string>
+    <string name="menu_third">购物车</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="action_edit">Edit</string>
+</resources>
